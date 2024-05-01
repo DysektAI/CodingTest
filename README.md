@@ -10,12 +10,6 @@ This project aims to address shortcomings in standard certification processes wh
 - **Detailed Feedback**: Offers in-depth feedback on each answer, showing what users know well and what they need to study more.
 - **Version-specific Testing**: Allows users to test on different versions of a language, understanding changes over time and ensuring compatibility with older systems.
 
-## Why AGPL?
-We chose the Affero General Public License Version 3 (AGPLv3) because it:
-- Ensures that any modifications, especially in a server-side context, remain open and accessible to the community.
-- Helps prevent proprietary use without contributing back to the original project.
-- Supports our vision of an open, collaborative educational environment where improvements are shared.
-
 ## Features
 - **Adaptive Testing**: Tests adapt based on the user's knowledge level, making it suitable for both beginners and advanced users.
 - **Score Evolution**: Tracks score changes over time to visualize learning progress and encourage consistent study habits.
@@ -32,6 +26,12 @@ We welcome and love contributions from the community! Whether it's adding new fe
 
 ## License
 This project is licensed under the Affero General Public License Version 3 (AGPLv3). For more details, see the [LICENSE file](https://github.com/DysektAI/CodingTest/blob/main/LICENSE) in this repository.
+
+## Why AGPL?
+We chose the Affero General Public License Version 3 (AGPLv3) because it:
+- Ensures that any modifications, especially in a server-side context, remain open and accessible to the community.
+- Helps prevent proprietary use without contributing back to the original project.
+- Supports our vision of an open, collaborative educational environment where improvements are shared.
 
 ## Contact
 For more information, suggestions, or to get involved, please reach out via [GitHub issues](https://github.com/DysektAI/CodingTest/issues).
