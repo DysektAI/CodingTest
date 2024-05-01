@@ -28,10 +28,10 @@ To get started with the Web Language Proficiency Tester:
 3. Follow the setup instructions in the INSTALL.md to configure your environment.
 
 ## Contributing
-We welcome contributions from the community. Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please read the CONTRIBUTING.md file for guidelines on how to submit contributions.
+We welcome and love contributions from the community! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please read the CONTRIBUTING.md file for guidelines on how to submit contributions.
 
 ## License
-This project is licensed under the Affero General Public License Version 3 (AGPLv3). For more details, see the LICENSE file in this repository.
+This project is licensed under the Affero General Public License Version 3 (AGPLv3). For more details, see the [LICENSE file](https://github.com/DysektAI/CodingTest/blob/main/LICENSE) in this repository.
 
 ## Contact
 For more information, suggestions, or to get involved, please reach out via [GitHub issues](https://github.com/DysektAI/CodingTest/issues).
